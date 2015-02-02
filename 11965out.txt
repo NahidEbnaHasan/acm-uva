@@ -1,0 +1,18 @@
+Case 1:
+a 
+ b
+
+Case 2:
+ 
+
+Case 3:
+ i am a student.
+
+Case 4:
+Sample test one:
+ there was 2 spaces and 
+here are also 2 spaces
+
+Case 5:
+Sample test two:
+ there was 4 spaces

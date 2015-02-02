@@ -1,0 +1,6 @@
+2 1
+4 3
+No solution
+15 14
+9 2
+No solution

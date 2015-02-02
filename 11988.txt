@@ -1,0 +1,7 @@
+a[b[c
+This_is_a_[Beiju]_text
+This_is_a_[Beiju]_text_[amazing]_
+This_is_a_[Beiju]_text_[ama[z]ing]_
+This_is_a_[Beiju]_text_[ama[zing]_
+[[]][][]Happy_Birthday_to_Tsinghua_University
+[[]][][]Happy
